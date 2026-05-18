@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://why-your-pricing-model-is-destroying-qmoppvenb.vercel.app/sitemap.xml
